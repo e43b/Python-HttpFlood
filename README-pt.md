@@ -1,4 +1,4 @@
-# Python HTTP Flood [![Views](https://hits.sh/github.com/e43bpyfloodpt/hits.svg)](https://github.com/e43b/Kemono-and-Coomer-Downloader/)
+# Python HttpFlood [![Views](https://hits.sh/github.com/e43bpyfloodpt/hits.svg)](https://github.com/e43b/Python-HttpFlood/)
 
 Este é um simples script de HTTP Flood desenvolvido em Python.
 
