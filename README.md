@@ -1,6 +1,6 @@
 # Python-HTTP-Flood
 
-Uma simples ferramenta de HttpFlood
+Uma simples ferramenta de HttpFlood feita com Python
 
 ## Install
 ```sh
