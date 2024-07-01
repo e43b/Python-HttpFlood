@@ -15,6 +15,8 @@ example: python main.py http://51.159.30.249 POST 1500
 
 Pc usado para rodar o script é uma máqiquina virtual com 1 nucleo e 2gb de ram
 
+testes foram feitos no site `https://dstat.cc/` na layer 7 o site `http://142.171.195.145/HIT` na categoria `L7 Non Protected` e o site `https://nodec.mediathektv.com` na cátegoria `L7 Non Protected SSL`
+
 ## Testes na pática `POST`
 https://dstat.cc/l7?id=MULTACOM-CORPORATION
 ![MULTACOM-CORPORATION](dstat/142post.png)
