@@ -1,5 +1,7 @@
 # Python-HTTP-Flood
 
+Uma simples ferramenta de HttpFlood
+
 ## Install
 ```sh
 git clone https://github.com/e43b/Python-HTTP-Flood/
