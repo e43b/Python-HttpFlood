@@ -6,8 +6,8 @@ This is a simple HTTP Flood script developed in Python.
 
 ## Installation
 ```sh
-git clone https://github.com/e43b/Python-HTTP-Flood/
-cd Python-HTTP-Flood
+git clone https://github.com/e43b/Python-HttpFlood/
+cd Python-HttpFlood
 pip install -r requirements.txt  
 ```
 
