@@ -1,5 +1,18 @@
 # Python-HTTP-Flood
 
+## Install
+```sh
+git clone https://github.com/e43b/Python-HTTP-Flood/
+cd Python-HTTP-Flood
+pip install -r requirements.txt  
+```
+
+## Usage 
+```sh
+python main.py <target> <GET/POST> <threads>
+example: python main.py http://51.159.30.249 POST 1500
+```
+
 Pc usado para rodar o script é uma máqiquina virtual com 1 nucleo e 2gb de ram
 
 ## Testes na pática `POST`
