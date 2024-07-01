@@ -50,4 +50,4 @@ if __name__ == "__main__":
     try:
         asyncio.run(main(target, request_type, threads))
     except KeyboardInterrupt:
-        print("\nTeste de estresse interrompido pelo usuário.")
+        print("\nStress test interrupted by the user.")
