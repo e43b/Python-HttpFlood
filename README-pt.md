@@ -4,8 +4,8 @@ Este é um simples script de HTTP Flood desenvolvido em Python.
 
 ## Instalação
 ```sh
-git clone https://github.com/e43b/Python-HTTP-Flood/
-cd Python-HTTP-Flood
+git clone https://github.com/e43b/Python-HttpFlood/
+cd Python-HttpFlood
 pip install -r requirements.txt  
 ```
 
